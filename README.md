@@ -1,4 +1,4 @@
-# ocvm
+# Grant's ocvm fork
 OpenComputer Emulator
 
 This emulator is inspired by the outstanding work done by gamax with OCEmu ( https://github.com/gamax92/OCEmu ).
@@ -40,5 +40,5 @@ There are some requirements for building:
 
 I plan to add support for building ocvm on Mac using boost filesystem and clang+llvm
 
-I do not plan to add support for non-ansi terminals nor windows. If this works in cygwin it wasn't on purpose
+I (Grant) am using this fork to make ocvm work on Windows with minimal changes
 
